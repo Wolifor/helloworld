@@ -7,3 +7,5 @@ show your eys
 
 
 run git 
+
+input my eye
